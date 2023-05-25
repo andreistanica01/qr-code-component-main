@@ -1,0 +1,11 @@
+// USING AN ADAPTED 7-1 ARCHITECTURE
+
+// BASE
+@import 'base/variables';
+@import 'base/reset';
+@import 'base/typography';
+
+//LAYOUT
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/navbar';
